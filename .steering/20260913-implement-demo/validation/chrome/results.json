@@ -1,0 +1,40 @@
+{
+  "channel": "chrome",
+  "version": "152.0.7977.83",
+  "offline": true,
+  "fileUrl": true,
+  "measurements": [
+    {
+      "id": "predict-button",
+      "expectedPhase": "PREDICTED",
+      "immediatePhase": "PREDICTED",
+      "domMs": 2.599999997764826,
+      "frameMs": 2.7999999970197678
+    },
+    {
+      "id": "detect-button",
+      "expectedPhase": "CONFIRMED",
+      "immediatePhase": "CONFIRMED",
+      "domMs": 4.5,
+      "frameMs": 13.600000001490116
+    },
+    {
+      "id": "assign-button",
+      "expectedPhase": "ASSIGNED",
+      "immediatePhase": "ASSIGNED",
+      "domMs": 3.899999998509884,
+      "frameMs": 5.399999998509884
+    },
+    {
+      "id": "predict-button",
+      "expectedPhase": "PREDICTED",
+      "immediatePhase": "PREDICTED",
+      "domMs": 1.7999999970197678,
+      "frameMs": 2
+    }
+  ],
+  "positioningMs": 1602.8737000000006,
+  "errors": [],
+  "remoteRequests": [],
+  "result": "PASS"
+}

@@ -1,0 +1,40 @@
+{
+  "channel": "msedge",
+  "version": "153.0.4234.32",
+  "offline": true,
+  "fileUrl": true,
+  "measurements": [
+    {
+      "id": "predict-button",
+      "expectedPhase": "PREDICTED",
+      "immediatePhase": "PREDICTED",
+      "domMs": 2.300000000745058,
+      "frameMs": 2.400000002235174
+    },
+    {
+      "id": "detect-button",
+      "expectedPhase": "CONFIRMED",
+      "immediatePhase": "CONFIRMED",
+      "domMs": 3.400000002235174,
+      "frameMs": 12.900000002235174
+    },
+    {
+      "id": "assign-button",
+      "expectedPhase": "ASSIGNED",
+      "immediatePhase": "ASSIGNED",
+      "domMs": 3.300000000745058,
+      "frameMs": 6.399999998509884
+    },
+    {
+      "id": "predict-button",
+      "expectedPhase": "PREDICTED",
+      "immediatePhase": "PREDICTED",
+      "domMs": 1.800000000745058,
+      "frameMs": 1.9000000022351742
+    }
+  ],
+  "positioningMs": 1602.4668000000001,
+  "errors": [],
+  "remoteRequests": [],
+  "result": "PASS"
+}
